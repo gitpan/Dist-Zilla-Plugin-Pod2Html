@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+bin/myscript
+bin/myscript.sh
+dist.ini
+docs/DZT-Sample.html
+docs/DZT.html
+docs/myscript.html
+lib/DZT.pm
+lib/DZT/Sample.pm

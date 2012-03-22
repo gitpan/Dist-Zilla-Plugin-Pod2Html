@@ -1,0 +1,4 @@
+#!/usr/bin/env perl
+# ABSTRACT: command-line tool
+# PODNAME: DZT::Sample
+1;
