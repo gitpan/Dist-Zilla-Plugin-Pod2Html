@@ -9,7 +9,7 @@
 use warnings;
 use strict;
 package Dist::Zilla::Plugin::Pod2Html;
-our $VERSION = '0.1.0'; # VERSION
+our $VERSION = '0.1.1'; # VERSION
 
 use Moose;
 use Moose::Autobox;
@@ -164,7 +164,7 @@ Dist::Zilla::Plugin::Pod2Html - create CSS-rich HTML pages from the POD-aware fi
 
 =head1 VERSION
 
-version 0.1.0
+version 0.1.1
 
 =head1 SYNOPSIS
 
